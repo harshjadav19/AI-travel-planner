@@ -1,0 +1,10 @@
+﻿.env
+__pycache__/
+*.pyc
+*.pyo
+langgraph_env3/
+venv/
+env/
+.vscode/
+.idea/
+*.bak
